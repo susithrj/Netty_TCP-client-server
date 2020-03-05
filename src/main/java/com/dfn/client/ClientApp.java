@@ -33,6 +33,7 @@ public class ClientApp {
                logger.info("client connected on "+Settings.host+" "+Settings.port);
                 channelFuture.channel().writeAndFlush(readInput("configs/input.txt"));
                logger.info("sent from client: "+readInput("configs/input.txt"));
+               logger.info("sent from client: "+readInput("configs/input.txt"));
                //channelFuture.channel().writeAndFlush(login(Settings.userID,Settings.password,Settings.sequenceNo));
                 //  logger.info("Login Request sent: userID: "+Settings.userID+" Password: "+Settings.password+" SequenceNo: "+Settings.sequenceNo);
             }
