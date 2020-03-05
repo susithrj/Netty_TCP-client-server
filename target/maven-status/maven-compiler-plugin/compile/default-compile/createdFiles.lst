@@ -1,0 +1,14 @@
+com\dfn\client\ClientApp.class
+com\dfn\server\ServerChannelInitializer.class
+com\dfn\soupbin\SoupBinTCP.class
+com\dfn\soupbin\ASCII.class
+com\dfn\soupbin\SoupException.class
+com\dfn\client\NettyClientStringHandler.class
+com\dfn\util\Settings.class
+com\dfn\client\ClientApp$1.class
+com\dfn\soupbin\SoupBinTCP$LoginRequest.class
+com\dfn\client\NettyClientInitializer.class
+com\dfn\server\ServerApp.class
+com\dfn\soupbin\SoupBinTCP$LoginAccepted.class
+com\dfn\server\ServerChannelHandler.class
+com\dfn\soupbin\SoupBinTCP$LoginRejected.class
