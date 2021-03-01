@@ -1,4 +1,4 @@
-package com.dfn.server;
+package com.srj.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.EventLoopGroup;

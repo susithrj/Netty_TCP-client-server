@@ -1,4 +1,4 @@
-package com.dfn.client;
+package com.srj.client;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelInitializer;
