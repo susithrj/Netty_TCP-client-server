@@ -1,4 +1,4 @@
-package com.dfn.client;
+package com.srj.client;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
